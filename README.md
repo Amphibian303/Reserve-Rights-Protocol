@@ -10,3 +10,7 @@ Founded in 2018, The Reserve Protocol team has a solid lineup of talent and inve
 (team pics)
 ## Nevin Freeman (CEO and Co-Founder)
 Nevin is the founder who oversees The Reserve strategy and team coordination. Before he helped create Reserve, Nevin was the co-founder of Paradigm Academy.
+
+next
+
+
