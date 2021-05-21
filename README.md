@@ -8,7 +8,8 @@ The Reserve Protocol is a stablecoin platform built on top on Ethereum. It uses 
 ---
 ## The Reserve team and its investors
 Founded in 2018, The Reserve Protocol team has a solid lineup of talent and investors supporting the project. Some of the head individuals frontering this team have experience working at Google, GTesla, IBM and OpenAI.
-![](https://azcoinnews.com/wp-content/uploads/2020/06/Reserve-team.png)
+---
+![](https://mk0coinbureauisacqs2.kinstacdn.com/wp-content/uploads/2020/10/ReserveProtocolTeam.jpg.webp)
 ---
 ## Nevin Freeman (CEO & Co-Founder)
 Nevin is the founder who oversees The Reserve strategy and team coordination. Before he helped create Reserve, Nevin was the co-founder of Paradigm Academy.
@@ -19,8 +20,7 @@ Matt has the role of chief technology officer at Reserve and he also designs, an
 Other team members include: Erika Campbell (onsite ops) Cathleen Kilgallen (CFO) Mark Lee (Legal) Charlie Smith (Business Development) and Jesper Ostman (Protocol Development) and many others who professionalize in the crypto space
 ---
 ## Investors
-(add pic)
-
+---
 # Sam Altman:
 Sam is the president of YCombinator, co-founder and chairman at OpenAI and a prominent angel investor. He has invested in Airbnb, Stripe, Reddit, Asana and Pinerest to name a few
 
@@ -81,3 +81,9 @@ At times, the Reserve Protocol may target a collateralization ratio greater than
 Collateral tokens are somewhat volatile. While we may be able to select a portfolio with minimal downside risk, the reality is that drops in the collateral tokens' value will happen. When this happens, the Reserve Protocol will sell newly minted Reserve Rights tokens for additional collateral tokens and add them to the backing.
 
 ![](https://assets.website-files.com/5c0649fb67dd7b3627d59953/5ce4648a881a4d44305dd016_Protocol-Diagram-1-p-800.png)
+
+---
+
+## Blockchain is revolutionizing finance as we know it
+
+The world is changing dramatically. Blockchain technology has broken all limitations of the traditional finance system over the last decade and for the better. Bitcoin has revealed to the human race of the possibilities achievable through blockchain financial technology. Thanks to the internet, societies have grown in knowledge and economic power exponentially since its conception. The internet needs a form of digital currency to streamline transactions on a global scale. The analog systems that have been in place for thousands of years aka ‘fiat money’ are slow and even corrupt on a government level in most cases. This leads to inflation and the melting of savings of hardworking people across the world. Projects such as EGOLD and Reserve Rights has made it their mission to fix these issues and return the power back to the people.
