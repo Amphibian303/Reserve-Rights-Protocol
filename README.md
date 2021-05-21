@@ -43,7 +43,7 @@ Reserve Rights mission statement reads as follows:
 With a few exceptions (money laundering, terrorist financing), we believe anyone in the world should be able to transact with anyone else. This requires low-friction, cross-border transactions, which are surprisingly hard to do in many cases today.
 
 That's the reason for creating a stable, decentralized currency that can’t be abused by a government, because it is globally distributed outside of anyone’s control, and thus nearly impossible to shut down."
-
+---
 ## Corrupt government officials leading to 'fiat inflation'
 In places like Venezuela, inflation is apart of everyday life for those who live in the country. Hyperinflation in Venezuela is the currency instability in Venezuela that began in 2016 during the country's ongoing socioeconomic and political crisis. Venezuela began experiencing continuous and uninterrupted inflation in 1983, with double-digit annual inflation rates. Inflation rates became the highest in the world in 2014 and continued to increase in the following years, with inflation exceeding 1,000,000% by 2018.
 ---
@@ -61,7 +61,7 @@ The Reserve Protocol interacts with three kinds of tokens:
 The Reserve token (RSV) — a stable cryptocurrency that can be held and spent the way we use US dollars and other stable fiat money.
 The Reserve Rights token (RSR) — a cryptocurrency used to facilitate the stability of the Reserve token.
 Collateral tokens — other assets that are held by the Reserve smart contract in order to back the value of the Reserve token, similar to when the US government used to back the US dollar with gold. The protocol is designed to hold collateral tokens worth at least 100% of the value of all Reserve tokens. Many of the collateral tokens will be tokenized real-world assets such as tokenized bonds, property, and commodities. The portfolio will start off relatively simple and diversify over time as more asset classes are tokenized.
-
+---
 # How the Reserve Token is Stabilized:
 
 If demand goes down for the Reserve token, prices are expected to fall on secondary markets. What happens then?
@@ -70,12 +70,14 @@ Suppose the redemption price of Reserve is $1.00. If the price of Reserve on the
 
 The same mechanism works in reverse when demand goes up. If the price of Reserve on the open market is $1.02, arbitrageurs will be incentivized to purchase newly minted Reserve tokens for $1.00 worth of either collateral or Reserve Rights tokens (the latter only if there is an excess pool of Reserve tokens available), and immediately sell them on the open market. They'll continue selling on open markets until there is no more money to be made, which is when the market price matches the purchase price of $1.00.
 
+![](https://mk0coinbureauisacqs2.kinstacdn.com/wp-content/uploads/2020/10/ReserveTrading.jpg.webp)
+---
 # How the Reserve Protocol is Capitalized:
 
 The Reserve Protocol holds the collateral tokens that back the Reserve token. When new Reserves are sold on the market, the assets used by market participants to purchase the new Reserves are held as collateral. This process keeps the Reserve collateralized at a 1:1 ratio even as supply increases.
 
 At times, the Reserve Protocol may target a collateralization ratio greater than 1:1. When this is the case, scaling the supply of Reserve tokens requires additional capital in order to maintain the target collateralization ratio. To accomplish this the Reserve Protocol mints and sells Reserve Rights tokens in exchange for additional collateral tokens.
-
+---
 # What Happens When the Collateral Tokens Depreciate:
 
 Collateral tokens are somewhat volatile. While we may be able to select a portfolio with minimal downside risk, the reality is that drops in the collateral tokens' value will happen. When this happens, the Reserve Protocol will sell newly minted Reserve Rights tokens for additional collateral tokens and add them to the backing.
@@ -87,7 +89,7 @@ Collateral tokens are somewhat volatile. While we may be able to select a portfo
 ## Blockchain is revolutionizing finance as we know it
 
 The world is changing dramatically. Blockchain technology has broken all limitations of the traditional finance system over the last decade and for the better. Bitcoin has revealed to the human race of the possibilities achievable through blockchain financial technology. Thanks to the internet, societies have grown in knowledge and economic power exponentially since its conception. The internet needs a form of digital currency to streamline transactions on a global scale. The analog systems that have been in place for thousands of years aka ‘fiat money’ are slow and even corrupt on a government level in most cases. This leads to inflation and the melting of savings of hardworking people across the world. Projects such as EGOLD and Reserve Rights has made it their mission to fix these issues and return the power back to the people.
-
+---
 ## The Results:
 
 Since the 2018 inception of The Reserve Rights project, the team claims that they have very positive results and feedback from its users in locations with high inflation. Most of their customers are small business owners and merchants in these highly inflated areas.
@@ -95,7 +97,7 @@ Since the 2018 inception of The Reserve Rights project, the team claims that the
 The team has also announced that they intend on doing a massive promotional campaign “when the time is right”. They are going for an organic approach to gain loyal customers from the ground up. This way, the word of mouth method will have a more meaningful impact rather than starting off with a huge promotional exposure. Once the customer base reaches into the millions, a promotional trigger should boost the Reserve brand into even higher heights and could potentially put the project in the top 20 cryptocurrencies. Currently RSR is sitting modestly at #100 on coinbase market cap.
 
 Reserve Rights seems to have the most promising future in this domain when you stack up their star roster of teammates and investors involved in the project. Compared to EGOLD, Reserve seems like its more suitable for large scale adoption
-
+---
 ## Recommendations
 My recommendation for Reserve would be during their US rollout process. Currently this product is only available in spanish countries with high inflation. It’s very easy to market the benefits in areas like Venezuela because the inflation rate is so obvious. When rolling out to America and other countries where inflation is still happening, but not to the level of %1,000,000, the strategy to reach new customers will have to shift. Maybe offer more products within the application itself or even access to purchase NFTs within the Reserve app portal could help boost the brand as being an “all in one” shop for digital assets. Access to a crypto exchange from within the app could lead to even more adoption in countries with mild inflation. This way a user could convert their RSR into any asset they wish immediately and with confidence that the value of their accumulated RSV would not be effected.
 Offering an NFT shop or an exchange service could be very helpful to someone who wishes to have full control of their digital assets in one mobile wallet application.
