@@ -34,7 +34,7 @@ Funding for The Reserve Rights Protocol has been heavily covered on online media
 
 CEO Nevin Freeman has even admitted on one of his YouTube videos that Reserve has "in a very unique position and has access to a very long runway of funding available to them".
 
-## The Path to Reserve and why the world needs it
+## Business Activity: The Path to Reserve and why the world needs it
 ---
 Reserve Rights mission statement reads as follows:
 
@@ -52,7 +52,7 @@ In places like Venezuela, inflation is apart of everyday life for those who live
 
 "This itself is a fully functional product with a growing user-base, but it's just the start of our product vision. We plan to extend this cash-in and cash-out network to span the entire globe. We also plan to go way beyond just offering users the ability to make basic transactions – think payroll, automated cross-currency transactions, incoming and outgoing card payments, and so on."
 
-In the last week of March 2021, Reserve was the #1 most downloaded finance app in Venezuela, surpassing100,000 total downloads.
+In the last week of March 2021, Reserve was the #1 most downloaded finance app in Venezuela, surpassing 100,000 total downloads.
 ---
 ## The Technology
 
@@ -87,3 +87,13 @@ Collateral tokens are somewhat volatile. While we may be able to select a portfo
 ## Blockchain is revolutionizing finance as we know it
 
 The world is changing dramatically. Blockchain technology has broken all limitations of the traditional finance system over the last decade and for the better. Bitcoin has revealed to the human race of the possibilities achievable through blockchain financial technology. Thanks to the internet, societies have grown in knowledge and economic power exponentially since its conception. The internet needs a form of digital currency to streamline transactions on a global scale. The analog systems that have been in place for thousands of years aka ‘fiat money’ are slow and even corrupt on a government level in most cases. This leads to inflation and the melting of savings of hardworking people across the world. Projects such as EGOLD and Reserve Rights has made it their mission to fix these issues and return the power back to the people.
+
+## The Results:
+
+Since the 2018 inception of The Reserve Rights project, the team claims that they have very positive results and feedback from its users in locations with high inflation. Most of their customers are small business owners and merchants in these highly inflated areas.
+
+The team has also announced that they intend on doing a massive promotional campaign “when the time is right”. They are going for an organic approach to gain loyal customers from the ground up. This way, the word of mouth method will have a more meaningful impact rather than starting off with a huge promotional exposure. Once the customer base reaches into the millions, a promotional trigger should boost the Reserve brand into even higher heights and could potentially put the project in the top 20 cryptocurrencies. Currently RSR is sitting modestly at #100 on coinbase market cap.
+
+Reserve Rights seems to have the most promising future in this domain when you stack up their star roster of teammates and investors involved in the project. Compared to EGOLD, Reserve seems like its more suitable for large scale adoption
+
+## Recommendations
