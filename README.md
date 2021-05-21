@@ -8,8 +8,7 @@ The Reserve Protocol is a stablecoin platform built on top on Ethereum. It uses 
 ---
 ## The Reserve team and its investors
 Founded in 2018, The Reserve Protocol team has a solid lineup of talent and investors supporting the project. Some of the head individuals frontering this team have experience working at Google, GTesla, IBM and OpenAI.
-![][https://azcoinnews.com/wp-content/uploads/2020/06/Reserve-team.png
-]
+![](https://azcoinnews.com/wp-content/uploads/2020/06/Reserve-team.png)
 ---
 ## Nevin Freeman (CEO & Co-Founder)
 Nevin is the founder who oversees The Reserve strategy and team coordination. Before he helped create Reserve, Nevin was the co-founder of Paradigm Academy.
