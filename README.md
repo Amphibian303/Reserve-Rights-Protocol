@@ -22,16 +22,18 @@ Other team members include: Erika Campbell (onsite ops) Cathleen Kilgallen (CFO)
 ## Investors
 (add pic)
 
-Sam Altman
+# Sam Altman:
 Sam is the president of YCombinator, co-founder and chairman at OpenAI and a prominent angel investor. He has invested in Airbnb, Stripe, Reddit, Asana and Pinerest to name a few
 
-Peter Thiel
+# Peter Thiel:
 Peter is a co-founder of PayPal, Palantir Technologies, and Founders Fund. He founded and funds the Thiel Foundation, which aims to further breakthrough technologies and improve humanity;s longer-term future
 
-Coinbase Ventures
+# Coinbase Ventures:
 Coinbase is a digital currency exchange headquartered in San Francisco and originally incubated by YCombinator. Coinbase Ventures is an early stage venture fund, focused on investing in blockchain related companies.
 
-Reserve Rights has a "very long runway of funding, and for many years of runway" says CEO Nevin Freeman
+Funding for The Reserve Rights Protocol has been heavily covered on online media outlets with most of them claiming to be in the tens of millions of dollars. The most recent injection of cash the team received was by Pay Pal and Coinbase who combined added another 5 million dollars to the Reserve project in what they called "a developmental-stage seed round" of funding.  
+
+CEO Nevin Freeman has even admitted on one of his YouTube videos that Reserve has "in a very unique position and has access to a very long runway of funding available to them".
 
 ## The Path to Reserve Rights
 ---
