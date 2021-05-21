@@ -81,3 +81,4 @@ At times, the Reserve Protocol may target a collateralization ratio greater than
 
 Collateral tokens are somewhat volatile. While we may be able to select a portfolio with minimal downside risk, the reality is that drops in the collateral tokens' value will happen. When this happens, the Reserve Protocol will sell newly minted Reserve Rights tokens for additional collateral tokens and add them to the backing.
 
+![](https://assets.website-files.com/5c0649fb67dd7b3627d59953/5ce4648a881a4d44305dd016_Protocol-Diagram-1-p-800.png)
