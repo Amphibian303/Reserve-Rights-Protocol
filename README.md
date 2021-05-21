@@ -35,5 +35,24 @@ Funding for The Reserve Rights Protocol has been heavily covered on online media
 
 CEO Nevin Freeman has even admitted on one of his YouTube videos that Reserve has "in a very unique position and has access to a very long runway of funding available to them".
 
-## The Path to Reserve Rights
+## The Path to Reserve and why the world needs it
 ---
+Reserve Rights mission statement reads as follows:
+
+"We believe that everyone’s money should be secure. Billions of people around the world don't have a safe place to store their money. Banks in some countries can't be trusted, and some governments inflate their own currency to pay off debts, hurting citizens in the process.
+
+With a few exceptions (money laundering, terrorist financing), we believe anyone in the world should be able to transact with anyone else. This requires low-friction, cross-border transactions, which are surprisingly hard to do in many cases today.
+
+That's the reason for creating a stable, decentralized currency that can’t be abused by a government, because it is globally distributed outside of anyone’s control, and thus nearly impossible to shut down."
+
+## The problem is corrupt government officials aka 'fiat inflation'
+In places like Venezuela, inflation is apart of everyday life for those who live in the country. Hyperinflation in Venezuela is the currency instability in Venezuela that began in 2016 during the country's ongoing socioeconomic and political crisis. Venezuela began experiencing continuous and uninterrupted inflation in 1983, with double-digit annual inflation rates. Inflation rates became the highest in the world in 2014 and continued to increase in the following years, with inflation exceeding 1,000,000% by 2018.
+---
+## The Challenge - In the words of 'The Reserve'
+"Today, Reserve's users are primarily normal people and business owners in Venezuela. We help them save in dollars and transact with low friction. They can cash-in and cash-out with PayPal, Zelle, and Venezuelan bank transfers. For example, to cash-in, users initiate a transaction in our app, then are prompted to make a transfer with whatever payment method they have selected. That transfer is received by one of the traders in our network, who responds by sending the user RSV – this can be automated or manual, depending on the payment method. Once the user has RSV, transactions between users are simple. If a user wants to cash-out some funds they have received in RSV, they can use the same process in reverse, and receive a transfer from one of the traders in our network. The traders sell RSV for a little more than they buy it back for, so they make their money on the difference."
+
+"This itself is a fully functional product with a growing user-base, but it's just the start of our product vision. We plan to extend this cash-in and cash-out network to span the entire globe. We also plan to go way beyond just offering users the ability to make basic transactions – think payroll, automated cross-currency transactions, incoming and outgoing card payments, and so on."
+
+In the last week of March 2021, Reserve was the #1 most downloaded finance app in Venezuela, surpassing100,000 total downloads.
+---
+## The Technology
